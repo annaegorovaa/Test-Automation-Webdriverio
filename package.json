@@ -12,8 +12,8 @@
     "wdio-allure-reporter": "^0.7.0",
     "wdio-dot-reporter": "0.0.10",
     "wdio-mocha-framework": "^0.6.3",
-    "wdio-selenium-standalone-service": "0.0.10",
+    "wdio-selenium-standalone-service": "0.0.12",
     "wdio-spec-reporter": "^0.1.5",
-    "webdriverio": "^4.13.2"
+    "webdriverio": "^5.4.17"
   }
 }
